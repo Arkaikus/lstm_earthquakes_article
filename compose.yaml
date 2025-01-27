@@ -1,0 +1,8 @@
+services:
+  article:
+    entrypoint:
+      - sleep
+      - infinity
+    image: miktex/miktex
+    volumes:
+      - .:/article
