@@ -6,7 +6,7 @@ https://www.springernature.com/gp/authors/campaigns/latex-author-support/see-whe
 
 ## Setup
 
-Just run `docker compose up -d` then attach to the container with vscode
+Just run `docker compose up -d` then attach to the container with vscode, then open the `/article` folder
 
 Make sure to have [latex workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) extension installed in vscode, with this extension you can compile to pdf every time you save!
 
