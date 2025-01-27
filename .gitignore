@@ -1,7 +1,6 @@
 .vscode
 out/*
 !out/*.pdf
-*.eps
 
 fig-*.pdf
 user-*.pdf
